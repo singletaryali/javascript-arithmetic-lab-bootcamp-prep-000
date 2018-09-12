@@ -9,6 +9,7 @@ function multiply (a,b) {
 }
 function divide(a,b) {
   return a / b ;
+<<<<<<< HEAD
 }
 function inc(a,b) {
   return a + 1; 
@@ -27,4 +28,6 @@ function preserveDecimal (a,b) {
 }
 function isNaN (a,b) {
   return true;
+=======
+>>>>>>> b0a8331048efdf6419710babcd1af3c9be1f0340
 }
